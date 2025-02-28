@@ -264,4 +264,24 @@
     <string name="explicit">Spasht</string>
     <string name="show_background">Background Dikhaye</string>
     <string name="show_background_summary">Player mein track ka background video ya dhundhla artwork</string>
+    <string name="_45min">45m</string>
+    <string name="_1hr">1h</string>
+    <string name="_2hr">2h</string>
+    <string name="sleep_on_specific_time">Nishchit samay par band karein</string>
+    <string name="sleep_timer_set_for">Neend ghadi %1$s ke liye set ki gayi</string>
+    <string name="reset">Reset</string>
+    <string name="audio_fx">Dhwani Prabhav</string>
+    <string name="audio_fx_desc">Vartaman gaane ke liye dhwani prabhav badlein |</string>
+    <string name="playback_speed">Bajane ka raftaar</string>
+    <string name="change_pitch_with_speed">Raftaar ke saath sur badlein</string>
+    <string name="bass_boost">Bass badhao</string>
+    <string name="bass_boost_desc">Zyada badhane se dhwani bigad sakti hai |</string>
+    <string name="change_pitch_with_speed_desc">Dheeme gati ka sur prapt karein</string>
+    <string name="audio_fx_summary">Sabhi gaanon ke liye prabhav lagu</string>
+    <string name="playback">Bajane</string>
+    <string name="_15min">15m</string>
+    <string name="end_of_track">Gaane ka ant</string>
+    <string name="sleep_timer_desc">Ek nishchit samay ke baad, gana bajana band karne ke liye neend ghadi set karein</string>
+    <string name="sleep_timer_canceled">Neend ghadi radd ki gayi</string>
+    <string name="_30min">30m</string>
 </resources>
