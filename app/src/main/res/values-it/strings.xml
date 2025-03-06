@@ -93,15 +93,11 @@
         <item quantity="other">%1$d Canzoni</item>
     </plurals>
     <string name="shuffle">Shuffle</string>
-    <string name="collapse_player"></string>
-    <string name="play"></string>
     <string name="str_copy">Copia</string>
     <string name="about">Info</string>
     <string name="stop_player">Ferma player</string>
     <string name="stop_player_summary">Ferma il player, quando l\'app viene rimossa dalle recenti</string>
     <string name="view">View</string>
-    <string name="unfollow"></string>
-    <string name="follow"></string>
     <string name="look_and_feel">Aspetto</string>
     <string name="look_and_feel_summary">UI e Impostazioni Animazioni</string>
     <string name="behavior">Funzionamento</string>
@@ -275,9 +271,4 @@
     <string name="audio_fx_summary">Effetti applicati a tutte le canzoni</string>
     <string name="unhidden_track">Non Nascosto %1$s</string>
     <string name="audio_fx_desc">Cambia gli effetti audio per la traccia corrente.</string>
-    <plurals name="number_followers">
-        <item quantity="one"></item>
-        <item quantity="many"></item>
-        <item quantity="other"></item>
-    </plurals>
 </resources>
