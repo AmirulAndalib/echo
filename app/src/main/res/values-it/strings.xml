@@ -271,4 +271,20 @@
     <string name="audio_fx_summary">Effetti applicati a tutte le canzoni</string>
     <string name="unhidden_track">Non Nascosto %1$s</string>
     <string name="audio_fx_desc">Cambia gli effetti audio per la traccia corrente.</string>
+    <string name="follow">Segui</string>
+    <string name="audio">Audio</string>
+    <string name="amoled">Amoled</string>
+    <string name="shared_element_transitions">Transizioni Copertina</string>
+    <string name="login">Accedi</string>
+    <string name="password">Password</string>
+    <string name="logout">Esci</string>
+    <string name="ok">OK</string>
+    <string name="incognito">Incognito</string>
+    <string name="no_internet">Nessuna connessione internet</string>
+    <string name="item_radio">%1$s Radio</string>
+    <string name="albums">Album</string>
+    <string name="username_password"><![CDATA[Nome Utente & Password]]></string>
+    <string name="webview">Visualizzazione Web</string>
+    <string name="play">Riproduci</string>
+    <string name="unfollow">Smetti di seguire</string>
 </resources>
