@@ -287,4 +287,47 @@
     <string name="webview">Visualizzazione Web</string>
     <string name="play">Riproduci</string>
     <string name="unfollow">Smetti di seguire</string>
+    <string name="auto_start_radio">Auto avvio Radio</string>
+    <string name="ui">Interfaccia grafica</string>
+    <string name="dynamic_player">Colore Player dinamico</string>
+    <string name="info">Informazioni</string>
+    <string name="seekbar">Barra di scorrimento</string>
+    <string name="extension_login">%1$s Login</string>
+    <string name="tracker">Tracker</string>
+    <string name="navbar_gradient">Colore sfumatura Navbar</string>
+    <string name="off">Spento</string>
+    <string name="following_artist">Ssgui %1$s</string>
+    <string name="unfollowed_artist">Non segui %1$s</string>
+    <string name="liked_track">Ti piace %1$s</string>
+    <string name="unliked_track">Non ti piace %1$s</string>
+    <string name="app">App</string>
+    <string name="file">File</string>
+    <string name="extension_installer">Installa Estensione</string>
+    <string name="link">Collegamento</string>
+    <string name="backgrounds">Sfondi</string>
+    <string name="explicit">Esplicito</string>
+    <string name="_15min">15min</string>
+    <string name="_45min">45min</string>
+    <string name="_1hr">1h</string>
+    <string name="_2hr">2ore</string>
+    <string name="reset">Resetta</string>
+    <string name="bass_boost">Incremento Bassi</string>
+    <string name="playback">Riproduzione</string>
+    <string name="misc">Varie</string>
+    <string name="metadata">Metadati</string>
+    <string name="tagging">Tags</string>
+    <string name="playlists">Playlist</string>
+    <plurals name="number_min">
+        <item quantity="one">%1$d Min</item>
+        <item quantity="many">%1$d Minuti</item>
+        <item quantity="other"></item>
+    </plurals>
+    <plurals name="number_followers">
+        <item quantity="one">%1$d Follower</item>
+        <item quantity="many">%1$d Followers</item>
+        <item quantity="other"></item>
+    </plurals>
+    <string name="collapse_player">Comprimi il lettore</string>
+    <string name="_30min">30min</string>
+    <string name="update_error">Errore di aggiornamento</string>
 </resources>
