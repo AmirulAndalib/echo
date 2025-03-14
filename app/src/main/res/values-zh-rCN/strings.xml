@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <string name="sleep_timer">睡眠定时器</string>
+    <string name="sleep_timer">定时关闭</string>
     <string name="login">登录</string>
     <string name="stream_quality">流媒体质量</string>
     <string name="home">主页</string>
@@ -182,7 +182,7 @@
     <string name="video_selection">视频选择</string>
     <string name="track_total_plays">%1$d 玩耍</string>
     <string name="off">关闭</string>
-    <string name="explicit">明确的</string>
+    <string name="explicit">未删减限制级</string>
     <string name="show_background">显示背景</string>
     <string name="show_background_summary">播放器中的背景视频或模糊艺术作品</string>
     <string name="show_all">显示全部</string>
@@ -224,7 +224,7 @@
     <string name="blacklist_folder_keywords_summary">黑名单文件夹的关键词，使用逗号分隔</string>
     <string name="permission_required">需要权限</string>
     <string name="permission_denied">权限被拒绝</string>
-    <string name="downloading_update_for_extension">下载更新 %1$s</string>
+    <string name="downloading_update_for_extension">正在下载 %1$s 的更新</string>
     <string name="extension_updated_successfully">%1$s 更新成功</string>
     <string name="check_for_extension_updates">检查扩展更新</string>
     <string name="link">链接</string>
@@ -263,9 +263,9 @@
     <string name="navbar_gradient">渐变导航栏</string>
     <string name="navbar_gradient_summary">导航栏渐变透明</string>
     <string name="downloading_item">正在下载 %1$s</string>
-    <string name="sleep_timer_canceled">睡眠计时器已取消</string>
+    <string name="sleep_timer_canceled">定时关闭已取消</string>
     <string name="bass_boost_desc">较大的数值可能会破坏听感。</string>
-    <string name="sleep_timer_desc">设置睡眠计时器以在一段时间后停止播放</string>
+    <string name="sleep_timer_desc">设置定时关闭以在一段时间后停止播放</string>
     <string name="failed">失败</string>
     <string name="metadata">元数据</string>
     <string name="cancelled">已取消</string>
@@ -292,4 +292,29 @@
     <plurals name="number_min">
         <item quantity="other">%1$d 分钟</item>
     </plurals>
+    <string name="_30min">30分钟</string>
+    <string name="_2hr">2小时</string>
+    <string name="_1hr">1小时</string>
+    <string name="_45min">45分钟</string>
+    <string name="sleep_on_specific_time">在特定时间睡眠</string>
+    <string name="playback">播放</string>
+    <string name="_15min">15分钟</string>
+    <string name="end_of_track">当前曲目结束时</string>
+    <string name="sleep_timer_set_for">定时关闭时长设置为 %1$s</string>
+    <string name="items">%1$d 项</string>
+    <string name="downloading_x">正在下载 %1$s</string>
+    <string name="progress_x">进度： %1$d%%</string>
+    <string name="paused_x">已暂停： %1$d%%</string>
+    <string name="change_pitch_with_speed_desc">获得那种慢动作声音的感觉</string>
+    <string name="nothing_to_download_in_x">%1$s 中无可下载项</string>
+    <string name="show_tabs">显示标签页</string>
+    <string name="show_tab_summary">将以标签页的形式显示扩展类别</string>
+    <string name="track_added_to_queue">%1$s 已添加到队列</string>
+    <string name="sort">排序</string>
+    <string name="tabs">标签页</string>
+    <string name="sort_duration">时长</string>
+    <string name="sort_date">日期</string>
+    <string name="sort_subtitle">副标题</string>
+    <string name="sort_title">标题</string>
+    <string name="sort_descending">%1$s 降序</string>
 </resources>
