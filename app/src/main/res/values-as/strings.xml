@@ -80,10 +80,10 @@
     <string name="animation">এনিমেচন</string>
     <string name="animations">এনিমেচনসমূহ</string>
     <string name="playing_from">বাজি থকা স্থান</string>
-    <string name="animations_summary">অতি অলপ নিকাশ বোধ কৰিছা নেকি? এইটো বন্ধ কৰিলে সহায় কৰিব পাৰে</string>
+    <string name="animations_summary">ডিভাইচত লেহেমীয়া বোধ কৰিছে নেকি? এইটো বন্ধ কৰিলে সহায় কৰিব পাৰে</string>
     <string name="seekbar">সিকবৰ</string>
     <string name="shared_element_transitions">কভাৰ আৰ্ট স্থানান্তৰণসমূহ</string>
-    <string name="shared_element_transitions_summary">কুল উপাদান স্থানান্তৰণসমূহ, এইটো কিয় বন্ধ কৰিবা?</string>
+    <string name="shared_element_transitions_summary">আকৰ্ষণীয় উপাদান স্থানান্তৰণসমূহ, ইয়াক কিয় বন্ধ কৰিব?</string>
     <string name="restart">পুনৰ আৰম্ভ কৰক</string>
     <string name="equalizer">ইকুৱালাইজাৰ</string>
     <string name="equalizer_summary">ডিভাইচৰ ইকুৱালাইজাৰ ছেটিংছ খুলক</string>
@@ -95,7 +95,7 @@
     <string name="password">পাছৱৰ্ড</string>
     <string name="select_an_account">এটা একাউণ্ট বাছনি কৰক</string>
     <string name="confirm">নিশ্চিত কৰক</string>
-    <string name="todo">কৰিবলগীয়া কাম, এতিয়ালৈকে নিৰ্মাণ কৰা হোৱা নাই।</string>
+    <string name="todo">কৰিবলগীয়া কাম, বৰ্তমানলৈকে নিৰ্মাণ কৰা হোৱা নাই।</string>
     <string name="stream_quality">স্ট্ৰীম গুণমান</string>
     <string name="stream_quality_summary">স্ট্ৰীমৰ গুণমান বাছনি কৰক</string>
     <string name="no_user_found">কোনো ব্যৱহাৰকাৰী পোৱা নগ’ল</string>
@@ -211,7 +211,7 @@
     <string name="composer">সুৰকাৰ: %1$s</string>
     <string name="writer">লেখক: %1$s</string>
     <string name="author">ৰচনাকাৰ: %1$s</string>
-    <string name="refresh_library_on_reload">পুনৰ লোডত লাইব্ৰেৰী সতেজ কৰক</string>
+    <string name="refresh_library_on_reload">পুনৰ লোডত লাইব্ৰেৰী নবীকৰণ কৰক</string>
     <string name="refresh_library_on_reload_summary">প্ৰতিবাৰ ফিড লোড কৰাৰ সময়ত ডিভাইচটো স্কেন কৰক</string>
     <string name="duration_filter">সময়সীমা ফিল্টাৰ</string>
     <string name="duration_filter_summary">মানতকৈ কম সময়সীমা(ছেকেণ্ডত) অডিঅ\' ফাইলসমূহ ফিল্টাৰ কৰক</string>
@@ -235,7 +235,7 @@
     <string name="uninstall">আনইনষ্টল</string>
     <string name="allow_opening_links">লিংক খোলাৰ অনুমতি দিয়ক</string>
     <string name="extension_installed_successfully">এক্সটেনচন সফলতাৰে সংস্থাপন কৰা হৈছে।</string>
-    <string name="extension_requires_following_extensions">%1$s ৰ বাবে %2$s ৰ প্ৰয়োজন</string>
+    <string name="extension_requires_following_extensions">%1$s ক কাৰ্যকৰী কৰিবলৈ %2$s ৰ প্ৰয়োজন</string>
     <string name="file">ফাইল</string>
     <string name="cache_playlist_warning">পৰীক্ষামূলক বৈশিষ্ট্য।\nতেওঁলোকৰ কথা শুনাৰ বাহিৰে আন একোৱেই সমৰ্থিত নহয়।</string>
     <string name="cached_songs">কেচ কৰা গীত</string>
@@ -245,7 +245,7 @@
     <string name="extension_installer">এক্সটেনচন ইনষ্টলাৰ</string>
     <string name="extension_uninstalled_successfully">এক্সটেনচন সফলভাৱে আনইনষ্টল কৰা হৈছে।</string>
     <string name="open_links_instruction">এই লিংকসমূহ খোলাৰ অনুমতি দিবলৈ, আপুনি নিম্নলিখিত কৰিব লাগিব:\n- তললৈ স্ক্ৰল কৰক আৰু \"অবিকল্পিত দ্বাৰা খোলক\" ক্লিক কৰক।\n- \"+ লিংক যোগ কৰক\" ত ক্লিক কৰক</string>
-    <string name="installation_type_warning">যদি আপুনি এক্সটেনচন এটা ফাইল হিচাপে সংস্থাপন কৰিব বিচাৰে তেন্তে উপলব্ধ নহয় ।</string>
+    <string name="installation_type_warning">যদি আপুনি এক্সটেনচন এটা ফাইল হিচাপে সংস্থাপন কৰিব বিচাৰে তেন্তে এই বিকল্প উপলব্ধ নহয় ।</string>
     <string name="downloading_update_for_extension">%1$s ৰ বাবে আপডেইট ডাউনলোড হৈ আছে</string>
     <string name="extension_updated_successfully">%1$s সফলভাৱে আপডেইট কৰা হৈছে</string>
     <string name="check_for_extension_updates">এক্সটেনচন আপডেইটসমূহৰ বাবে পৰীক্ষা কৰক</string>
@@ -270,7 +270,7 @@
     <string name="_45min">45m</string>
     <string name="_1hr">1h</string>
     <string name="_2hr">2h</string>
-    <string name="sleep_timer_set_for">%1$s ৰ বাবে টোপনিৰ টাইমাৰ সংহতি কৰা হৈছে</string>
+    <string name="sleep_timer_set_for">%1$s ৰ বাবে টোপনিৰ টাইমাৰ নিৰ্ধাৰণ কৰা হৈছে</string>
     <plurals name="number_hour">
         <item quantity="one">%1$d ঘন্টা</item>
         <item quantity="other">%1$d ঘণ্টাট</item>
@@ -279,7 +279,7 @@
         <item quantity="one">%1$d মিনিট</item>
         <item quantity="other">%1$d মিনিটট</item>
     </plurals>
-    <string name="sleep_on_specific_time">নিৰ্দিষ্ট সময়ত শুব লাগে</string>
+    <string name="sleep_on_specific_time">নিৰ্দিষ্ট সময়ত শুব</string>
     <string name="sleep_timer_canceled">টোপনিৰ টাইমাৰ বাতিল কৰা হৈছে</string>
     <string name="sleep_timer_desc">এটা নিৰ্দিষ্ট সময়ৰ পিছত প্লেবেক বন্ধ কৰিবলৈ এটা স্লিপ টাইমাৰ ছেট কৰক</string>
     <string name="audio_fx">অডিও প্ৰভাৱসমূহ</string>
@@ -324,6 +324,6 @@
     <string name="playlists">প্লেলিস্টসমূহ</string>
     <string name="saved">সংৰক্ষিত</string>
     <string name="nothing_to_download_in_x">%1$s ত একো ডাউনলোড কৰিবলৈ নাই</string>
-    <string name="no_download_extension">কোনো ডাউনলোড এক্সটেনচন পোৱা নগ\'ল, কোড \"echodown\" ব্যৱহাৰ কৰক</string>
+    <string name="no_download_extension">কোনো ডাউনলোড এক্সটেনচন পোৱা নগ\\\'ল, \\\"echodown\\\" কোড ব্যৱহাৰ কৰক</string>
     <string name="checking_for_extension_updates">এক্সটেনচন আপডেটৰ বাবে পৰীক্ষা কৰা হৈছে</string>
 </resources>
