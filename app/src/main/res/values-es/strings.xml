@@ -198,7 +198,7 @@
     <string name="restart_app">Reinicia la aplicación para aplicar los cambios completamente</string>
     <string name="dynamic_player_summary">Aplicar color al reproductor basado en la carátula de la pista</string>
     <string name="currently_playing">Reproduciendo actualmente</string>
-    <string name="like">Como</string>
+    <string name="like">Me gusta</string>
     <string name="could_not_find_anything">No se encontró nada relacionado con %1$s</string>
     <string name="streamable_not_found">Transmisión no encontrada</string>
     <string name="animation">Animación</string>
