@@ -152,7 +152,7 @@
     <string name="recently_added">最近新增</string>
     <string name="search_extension">搜索 %1$s</string>
     <string name="no_lyrics">无歌词</string>
-    <string name="downloads">下载</string>
+    <string name="downloads">下载列表</string>
     <string name="extension">扩展</string>
     <string name="downloaded_percentage">已下载：%1$d</string>
     <string name="download_started">下载已开始</string>
@@ -180,7 +180,7 @@
     <string name="video_qualities">视频质量</string>
     <string name="audio_selection">音频选择</string>
     <string name="video_selection">视频选择</string>
-    <string name="track_total_plays">%1$d 玩耍</string>
+    <string name="track_total_plays">%1$d 播放</string>
     <string name="off">关闭</string>
     <string name="explicit">未删减限制级</string>
     <string name="show_background">显示背景</string>
@@ -317,4 +317,8 @@
     <string name="sort_subtitle">副标题</string>
     <string name="sort_title">标题</string>
     <string name="sort_descending">%1$s 降序</string>
+    <string name="initialized">已初始化</string>
+    <string name="tagging">写入标签中</string>
+    <string name="misc">杂项</string>
+    <string name="no_download_extension">未找到下载插件，使用 \"echodown\"</string>
 </resources>
