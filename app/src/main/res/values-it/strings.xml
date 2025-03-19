@@ -148,7 +148,7 @@
     <string name="disabled">Disattivato</string>
     <string name="radio_empty">Radio è vuota</string>
     <string name="str_not_set" tools:ignore="PrivateResource">Non Impostato</string>
-    <string name="language_summary">Lingua dell\'app, il sistema sarà predefinito in Inglese</string>
+    <string name="language_summary">Lingua dell\'app, il sistema sarà di default in Inglese</string>
     <string name="video_quality_summary">Qualità del video, il video può essere disabilitato anche da qui</string>
     <string name="video_quality_none">Niente</string>
     <string name="cache_size">Dimensione Cache</string>
