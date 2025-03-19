@@ -98,7 +98,7 @@
     <string name="switch_account">Konto wechseln</string>
     <string name="not_logged_in">Nicht angemeldet</string>
     <string name="add_account">Konto Hinzufügen</string>
-    <string name="no_streams_found">Kein Strom gefunden</string>
+    <string name="no_streams_found">Keine Wiedergabe gefunden</string>
     <string name="create_playlist">Playlist Erstellen</string>
     <string name="not_loading">Nicht Geladen</string>
     <string name="login_required">%1$s Anmeldung Erforderlich</string>
