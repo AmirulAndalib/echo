@@ -107,7 +107,7 @@
     <string name="playlist_favourite">Gefällt mir Songs</string>
     <string name="playlist_favourite_desc">Alle deine Lieblingssongs an einem Ort.</string>
     <string name="add_to_queue">Zur Warteschlange Hinzufügen</string>
-    <string name="play_next">Nächsten Spielen</string>
+    <string name="play_next">Als Nächstes Spielen</string>
     <string name="save_to_playlist">Zu Playlist Speichern</string>
     <string name="share">Teilen</string>
     <string name="playlist_name">Playlist Name</string>
@@ -134,7 +134,7 @@
     <string name="app_crashed">App ist abgestürzt!</string>
     <string name="keep_queue">Spielerwarteschlange beibehalten</string>
     <string name="more_by_artist">Mehr von %1$s</string>
-    <string name="incognito">Incognito</string>
+    <string name="incognito">Inkognito</string>
     <string name="item_radio">%1$s Radio</string>
     <string name="radio_based_on_item">Radio basierend auf %1$s</string>
     <string name="albums">Alben</string>
@@ -218,7 +218,7 @@
     <string name="remove_from_library">Aus der Bibliothek entfernen</string>
     <string name="save_to_library">In der Mediathek speichern</string>
     <string name="navbar_gradient">Navigationsleiste mit Farbverlauf</string>
-    <string name="downloading_update_for_extension">Lade ein Update für %1$s runter</string>
+    <string name="downloading_update_for_extension">Lade ein Update für %1$s herunter</string>
     <string name="back">Zurück</string>
     <string name="cache_playlist_warning">Experimentelle Funktionen.\nAlles außer sie anhören ist nicht unterstützt.</string>
     <string name="cached_songs">Zwischengespeicherte Songs</string>
@@ -260,7 +260,7 @@
     <string name="following_artist">Folgendes %1$s</string>
     <string name="unfollowed_artist">Entfolgt %1$s</string>
     <string name="view">Ansicht</string>
-    <string name="unlike">Anders als</string>
+    <string name="unlike">Gefällt mir nicht mehr</string>
     <string name="sources">Quellen</string>
     <string name="liked_track">Mochtet %1$s</string>
     <string name="unliked_track">Nicht mehr gemocht %1$s</string>
